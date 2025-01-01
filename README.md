@@ -95,9 +95,9 @@ API-RATE-LIMITER/
 
 ## Code Cleanup
 
-- [ ] Refactor the rate limiter middleware to be more modular.
-- [ ] Remove any hardcoded values and replace them with configuration options.
-- [ ] Perform code linting and formatting for consistency.
+- [x] Refactor the rate limiter middleware to be more modular.
+- [x] Remove any hardcoded values and replace them with configuration options.
+- [x] Perform code linting and formatting for consistency.
 
 ## Ideas for Future Features
 
